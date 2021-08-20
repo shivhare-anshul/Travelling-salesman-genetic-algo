@@ -1,0 +1,9 @@
+In the crossover methods which i tried ,the mutlipoint crossover worked better than any other crossover.
+
+but as the mutation and crossover depends on random values ,hence any of the crossover can perform well ,
+depeding on the random point and probability .
+
+so we can't say that any particular type of crossover is best ,until we have large hardware resources which can train and run model 
+for thousands of iterations .
+
+few output images i attached in folder . as it is randomly generated ,and its approximately  goes to 40k to 50k fitness values .
